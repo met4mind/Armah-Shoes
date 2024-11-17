@@ -1,0 +1,37 @@
+@page "/sign-up"
+@using MudBlazor
+@inject NavigationManager NavigationManager
+
+<MudGrid Justify="Justify.Center" AlignItems="AlignItems.Center" Style="min-height: 100vh; background-color: #f5f5f5;">
+    <MudItem xs="12" sm="8" md="4">
+        <MudPaper Elevation="3" Style="padding: 20px; border-radius: 10px;">
+            <MudText Typo="Typo.h5" Align="Align.Center">Create an Account</MudText>
+            <MudDivider />
+            
+            <MudTextField Label="Email" @bind-Value="email" Required="true" />
+            <MudTextField Label="Password" @bind-Value="password" InputType="InputType.Password" Required="true" />
+            <MudTextField Label="Confirm Password" @bind-Value="confirmPassword" InputType="InputType.Password" Required="true" />
+
+            <MudButton Variant="Variant.Filled" Color="Color.Primary" FullWidth="true" OnClick="OnSignUp">Sign Up</MudButton>
+            <MudText Align="Align.Center" Style="margin-top: 10px;">or</MudText>
+            <MudButton Variant="Variant.Text" Color="Color.Primary" FullWidth="true" OnClick="NavigateToSignIn">Already have an account? Sign In</MudButton>
+        </MudPaper>
+    </MudItem>
+</MudGrid>
+
+@code {
+    private string email;
+    private string password;
+    private string confirmPassword;
+
+    private void OnSignUp()
+    {
+        // Handle sign-up logic here
+    }
+
+    private void NavigateToSignIn()
+    {
+        // Navigate to sign-in page
+        NavigationManager.NavigateTo("/sign-in");
+    }
+}
