@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/ZeA7mvvujMhYiA+bn7lA0TFGRk8yjX09YB+jGzrrw8=",
+  "Hash": "PlDJmq2iZETQ4wYVsvop2FFefv13bdfRXZ2oNw8YYqk=",
   "Source": "MyApplication",
   "BasePath": "_content/MyApplication",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyApplication\\wwwroot",
       "Source": "MyApplication",
-      "ContentRoot": "E:\\Programing\\Blazor\\Sign Page\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\wwwroot\\",
       "BasePath": "_content/MyApplication",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css",
+      "Identity": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "2gItJ0j/o5RSWg7VYqCOBpSPI1dxTOG+mnEzWt7EvYw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css"
+      "OriginalItemSpec": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css"
     },
     {
-      "Identity": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js",
+      "Identity": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.js",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "lz0Xidl9yw53lEeYs4XMU39zSRQzpCIyWOQSAG0/0GU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js"
+      "OriginalItemSpec": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-rnojub5shy.gz",
+      "Identity": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-rnojub5shy.gz",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.js.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js",
+      "RelatedAsset": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "dk8j3iybj5",
       "Integrity": "4wLiWt+hjBSHQm4LZp1HuYpuGHh0C71GVep0cTYkHdI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js"
+      "OriginalItemSpec": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
+      "Identity": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
       "SourceId": "MyApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyApplication",
       "RelativePath": "favicon#[.{fingerprint=2jeq8efc6q}]?.ico.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\Programing\\Blazor\\Sign Page\\wwwroot\\favicon.ico",
+      "RelatedAsset": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "pkzf8os278",
       "Integrity": "2QmB0roWK84FU9Ju+PK0EsKm/9obifm2L/+HWs2VtiA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Programing\\Blazor\\Sign Page\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-mhumzvqd1g.gz",
+      "Identity": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-mhumzvqd1g.gz",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css",
+      "RelatedAsset": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "750f4eamv2",
       "Integrity": "e0odARo5WTdd1QrI6+iEl/0LONnlAaAnEGSWQQ696m0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css"
+      "OriginalItemSpec": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css"
     },
     {
-      "Identity": "E:\\Programing\\Blazor\\Sign Page\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\wwwroot\\favicon.ico",
       "SourceId": "MyApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Programing\\Blazor\\Sign Page\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\wwwroot\\",
       "BasePath": "_content/MyApplication",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "_content/MudBlazor/MudBlazor.min.css",
-      "AssetFile": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -183,7 +183,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.css",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-mhumzvqd1g.gz",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-mhumzvqd1g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -238,7 +238,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.css.gz",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-mhumzvqd1g.gz",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-mhumzvqd1g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -283,7 +283,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.js",
-      "AssetFile": "C:\\Users\\Abolfazl Bagheri\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\amirh\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -320,7 +320,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.js",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-rnojub5shy.gz",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-rnojub5shy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -375,7 +375,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.js.gz",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-rnojub5shy.gz",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-rnojub5shy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -420,7 +420,7 @@
     },
     {
       "Route": "favicon.2jeq8efc6q.ico",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -443,7 +443,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Nov 2024 21:09:49 GMT"
+          "Value": "Wed, 20 Nov 2024 15:19:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -483,7 +483,7 @@
     },
     {
       "Route": "favicon.2jeq8efc6q.ico",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -504,7 +504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Nov 2024 21:09:49 GMT"
+          "Value": "Wed, 20 Nov 2024 15:19:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -528,7 +528,7 @@
     },
     {
       "Route": "favicon.2jeq8efc6q.ico.gz",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -549,7 +549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Nov 2024 21:09:49 GMT"
+          "Value": "Wed, 20 Nov 2024 15:19:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -581,7 +581,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -604,7 +604,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Nov 2024 21:09:49 GMT"
+          "Value": "Wed, 20 Nov 2024 15:19:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -636,7 +636,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -657,7 +657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Nov 2024 21:09:49 GMT"
+          "Value": "Wed, 20 Nov 2024 15:19:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -673,7 +673,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "E:\\Programing\\Blazor\\Sign Page\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
+      "AssetFile": "C:\\Users\\amirh\\Documents\\GitHub\\Armah-Shoes\\Blazor\\obj\\Debug\\net9.0\\compressed\\e3n6o4twyg-2jeq8efc6q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -694,7 +694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Nov 2024 21:09:49 GMT"
+          "Value": "Wed, 20 Nov 2024 15:19:32 GMT"
         },
         {
           "Name": "Cache-Control",
