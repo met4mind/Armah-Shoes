@@ -1,9 +1,11 @@
 const express = require("express")
-
+require('dotenv').config()
 const app = express()
 
 
 
-app.listen(8000 , ()=>{
-    console.log("app listenning to port 8000")
+
+
+app.listen(process.env.PORT , ()=>{
+    console.log(`app listenning to port ${process.env.PORT}`)
 })
